@@ -1,0 +1,1 @@
+This is just a landing page project. Not intended to be a representation of a fake business or anything like that.
